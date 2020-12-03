@@ -33,8 +33,9 @@ Grade : B | Mark : 20
 | Trapezoidal    | 100%       | 4/4       | x       |
 | **End scores** | **100%**   | **20/20** | **No**  |
 
-| Bonusses | Boole's rule | Simpson 3/8 |
-|----------|--------------|-------------|
+### Bonusses : 
+ * **Boole's rule**
+ * **Simpson 3/8**
 
 Made with Quentin TREHEUX ([LuciferBahamut](https://github.com/LuciferBahamut))
 
