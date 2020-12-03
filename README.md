@@ -1,6 +1,5 @@
 # 110borwein
-
-{EPITECH} | First year | Math project
+# {EPITECH} | First year | Math project
 
 In 2001, the Borwein brothers studied the following integrals, which now bear their name
 
@@ -21,22 +20,22 @@ See the subject for further details !
 
 ========================
 
-2nd semester Maths unit
+## 2nd semester Maths unit
 
 Grade : B | Mark : 20
 
-Score : 100%
+| Category       | Percentage | Tests     | Crash ? |
+|----------------|------------|-----------|---------|
+| Simpson        | 100%       | 4/4       | x       |
+| Basic          | 100%       | 3/3       | x       |
+| Midpoint       | 100%       | 4/4       | x       |
+| Rigor          | 100%       | 5/5       | x       |
+| Trapezoidal    | 100%       | 4/4       | x       |
+| **End scores** | **100%**   | **20/20** | **No**  |
 
-  - Simpson : 100% --- 4/4
-  - Basic : 100% --- 3/3
-  - Midpoint : 100% --- 4/4
-  - Rigor : 100% --- 5/5
-  - Trapezoidal : 100% --- 4/4
-  
-Bonuses : added 2 more mathods
-  - Boole's rule
-  - Simpson 3/8
+| Bonusses | Boole's rule | Simpson 3/8 |
+|----------|--------------|-------------|
 
-Made with Quentin TREHEUX (LuciferBahamut)
+Made with Quentin TREHEUX ([LuciferBahamut](https://github.com/LuciferBahamut))
 
 Beware of -42 Epitech students !!!
